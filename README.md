@@ -1,6 +1,6 @@
 ## Repositorio de "proyectos"
 
-##[1. Programación (Java)](./01-programacion-java)
+## [1. Programación (Java)](./01-programacion-java)
 Ejercicios y prácticas de Java.
 
 ## [2. Bases de Datos (SQL)](./02-bases-de-datos-sql)
