@@ -1,9 +1,9 @@
-Repositorio de Conocimientos
+## Repositorio de "proyectos"
 
-##[1. Programación (Java)] (./01-programacion-java)
+##[1. Programación (Java)](./01-programacion-java)
 Ejercicios y prácticas de Java.
 
-## [2. Bases de Datos (SQL)] (./02-bases-de-datos-sql)
+## [2. Bases de Datos (SQL)](./02-bases-de-datos-sql)
 Modelado, consultas, scripts y ejercicios.
 
 ## [3. Diseño Web ](./03-lenguaje-de-marcas)
